@@ -99,6 +99,7 @@ This module creates an additional tab in the Individual view which lists the mem
 ### Faces - by UksusoFF - `1.7` - `2.0` - `2.1` - [website](https://github.com/UksusoFF/webtrees-faces)
 
 Tag faces on photos.
+fort it  added "Age at photo"  [website](https://github.com/UksusoFF/webtrees-faces)
 
 ----------
 
